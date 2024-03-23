@@ -1,0 +1,10 @@
+.custom-color {
+   background-color: rgb(228, 175, 0);
+}
+
+@media (max-width: 560px) {
+   /* .custom-color{
+      height: 5vw;
+   } */
+   
+}

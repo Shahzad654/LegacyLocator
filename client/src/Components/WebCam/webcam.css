@@ -1,0 +1,34 @@
+.response{
+    margin-left: 25vw; 
+    margin-top: 4vw;
+}
+
+.file-btn{
+    color: orange;
+}
+
+
+input[type="file" i] {
+    appearance: none;
+    background-color: gray;
+    cursor: default;
+    align-items: baseline;
+    color: inherit;
+    text-overflow: ellipsis;
+    text-align: start !important;
+    padding: initial;
+    border: initial;
+    border-color: initial;
+    white-space: pre;
+    overflow: hidden !important;
+    border-radius: 0.3vw;
+}
+
+@media (max-width: 560px) {
+    .response{
+        width: 80vw;
+        margin-left: 0vw;
+        margin-right: 0vw;
+    }
+    
+}
